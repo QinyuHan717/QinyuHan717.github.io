@@ -1,26 +1,18 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Rita Han"
+image: "winnie.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ritahan7/"
+  - label: Email
+    url: "mailto:ritahanbj@gmail.com"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Rita is a student at Johns Hopkins Bloomberg School of Public Health.
 
 ## Education
 
