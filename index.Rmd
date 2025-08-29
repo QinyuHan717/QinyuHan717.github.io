@@ -12,12 +12,13 @@ output:
  
 ## Bio
 
-Rita is a student at Johns Hopkins Bloomberg School of Public Health.
+Rita is a second-year Master's student at Johns Hopkins Bloomberg School of Public Health.
 
 ## Education
 
-Johns Hopkins, MS in Epidemiology
+Johns Hopkins University, MS in Epidemiology
+Emory University, BS in Psychology and BA in Human Health
 
 ## Experience
 
-Student
+
